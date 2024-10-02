@@ -12,4 +12,4 @@ Consulta Banco de Dados: AWS Athena
 Serviso de Armazenamento em Nuvem: AWS S3
 
 Projeto completo no Kaggle:
-https://www.kaggle.com/code/sergiomurilloalmeida/eda-e-analise-de-cr-dito-sergio-souza
+https://www.kaggle.com/code/luiszoppi/analise-de-cr-dito-luis-zoppi
